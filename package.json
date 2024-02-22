@@ -1,0 +1,15 @@
+{
+  "name": "coffee-bacxkend",
+  "version": "1.0.0",
+  "description": "cofee with project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "vinod yadav",
+  "license": "ISC"
+}
